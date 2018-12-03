@@ -1,6 +1,6 @@
 # mysql-docker
 Custom mysql image
-Build from official [this](https://github.com/majidettehadi/debian-docker) custom debian image.
+Build from [this](https://github.com/majidettehadi/debian-docker) custom debian image.
 
 **[Available environments](https://github.com/majidettehadi/mysql-docker/blob/master/README.md#available-environments)**
 
